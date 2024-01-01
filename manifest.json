@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Method Draw Vector Editor",
+  "description": "Protect the Earth from asteroids and small planets as long as possible! Use your mouse to move and shooting. In each level you have of ammo which increases the number of hits, get the extra score and ammo at the end of the level.",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Method Draw Vector Editor",
+  "name": "Space Purge",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Method Draw Vector Editor",
+  "short_name": "Space Purge",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Method Draw Vector Editor",
+      "name": "Space Purge",
       "url": "",
-      "description": ""
+      "description": "Protect the Earth from asteroids and small planets as long as possible! Use your mouse to move and shooting. In each level you have of ammo which increases the number of hits, get the extra score and ammo at the end of the level."
     }
   ]
 }
